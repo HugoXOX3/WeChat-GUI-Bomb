@@ -1,5 +1,6 @@
 import itchat
 import tkinter as tk
+import webbrowser
 
 def search_donate():
     query = "your search query"
@@ -26,6 +27,7 @@ start_button = tk.Button(root, text='开始轰炸', command=start_bombardment)
 start_button.pack()
 
 start_button = tk.Button(root, text='Donate BTC', command=search_donate)
+start_button.pack()
 
 # Run the Tkinter event loop
 root.mainloop()
