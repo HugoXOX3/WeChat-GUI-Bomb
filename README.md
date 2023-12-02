@@ -11,7 +11,7 @@
 ### 准备
 
 - Python3.x 需要安装python3.x并配置好环境路径
-- 安装好python后，打开电脑的CMD终端输入`pip install itchat`安装itchat模块
+- 安装好python后，打开电脑的CMD/Terminal输入`pip install itchat`安装itchat模块
 - 需要设置好默认看图软件
 
 ### 如何使用
